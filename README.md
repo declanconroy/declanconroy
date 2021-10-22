@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @declanconroy
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning about Kubernetes, VMware, Tanzu, Python, Powershell, Data analytics
+- 🌱 I’m currently learning about Docker, Kubernetes, VMware, Tanzu, Python, Powershell, Data analytics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
